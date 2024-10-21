@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ansar\\source\\repos\\Project4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A40B268-4517-4B53-92DE-A576497AD0B1}|Project4\\Project4.vcxproj|C:\\Users\\ansar\\source\\repos\\Project4\\Project4\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5A40B268-4517-4B53-92DE-A576497AD0B1}|Project4\\Project4.vcxproj|solutionrelative:Project4\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "C:\\Users\\ansar\\source\\repos\\Project4\\Project4\\FileName.cpp",
+              "RelativeDocumentMoniker": "Project4\\FileName.cpp",
+              "ToolTip": "C:\\Users\\ansar\\source\\repos\\Project4\\Project4\\FileName.cpp",
+              "RelativeToolTip": "Project4\\FileName.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-19T07:14:18.16Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
