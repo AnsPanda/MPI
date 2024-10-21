@@ -1,0 +1,12 @@
+﻿  FileName.cpp
+C:\Users\ansar\source\repos\Project5\Project5\FileName.cpp(13,40): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\ansar\source\repos\Project5\Project5\FileName.cpp(18,15): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\ansar\source\repos\Project5\Project5\FileName.cpp(57,38): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\ansar\source\repos\Project5\Project5\FileName.cpp(57,29): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\ansar\source\repos\Project5\Project5\FileName.cpp(68,34): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\ansar\source\repos\Project5\Project5\FileName.cpp(68,25): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\ansar\source\repos\Project5\Project5\FileName.cpp(82,42): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\ansar\source\repos\Project5\Project5\FileName.cpp(82,39): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\ansar\source\repos\Project5\Project5\FileName.cpp(89,38): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\ansar\source\repos\Project5\Project5\FileName.cpp(89,35): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  Project5.vcxproj -> C:\Users\ansar\source\repos\Project5\x64\Debug\Project5.exe
